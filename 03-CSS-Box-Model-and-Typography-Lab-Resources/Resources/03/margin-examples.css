@@ -1,0 +1,11 @@
+.uniform {
+    margin: 40px;
+}
+
+.non-uniform {
+    margin: 20px;
+}
+
+.negative-uniform {
+    margin: -20px;
+}
